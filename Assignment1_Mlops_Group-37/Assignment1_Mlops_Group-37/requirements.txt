@@ -1,0 +1,10 @@
+pandas
+scikit-learn
+mlflow
+flask
+dvc
+pydantic>=2.0.0
+pytest
+pytest-flask
+python-dotenv
+gunicorn
